@@ -1,0 +1,6 @@
+	.ORIG	X3600
+	.FILL	90
+	.FILL 	X3400
+	.STRINGZ "Joe"
+	.FILL 	0
+	.END

@@ -1,0 +1,6 @@
+	.ORIG	X3800
+	.FILL	80
+	.FILL 	X0000
+	.STRINGZ "Evey"
+	.FILL 	0
+	.END

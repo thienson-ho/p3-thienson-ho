@@ -1,0 +1,4 @@
+	.ORIG	x5500
+	.STRINGZ	"Joes"
+	.FILL	0
+	.END

@@ -1,0 +1,6 @@
+	.ORIG	X3400
+	.FILL	88
+	.FILL 	X3800
+	.STRINGZ "Sue Sews"
+	.FILL 	0
+	.END
